@@ -16,7 +16,7 @@
 - <a href="#tecnologias">Tecnologias Utilizadas</a>
 - <a href="#certificado">Certificado de Conclusão</a>
 
-<h2 id="sobre">📋Sobre</h2>
+<h2 id="sobre">📋 Sobre</h2>
 <div>
  <p>Bootcamp Coding The Future Squadio - Python Data Analytics aprendendo a manipular, gerenciar e apresentar grandes massas de dados através de habilidades práticas para construir dashboards funcionais.</p>
  
@@ -25,7 +25,7 @@
  <p>Nesta trilha, eu desenvolvi habilidades com projetos práticos, desafios de códigos e mentorias com experts da DIO</p>  
 </di>
 
-<h2 id="modulos">Módulos</h2>
+<h2 id="modulos">🗃 Módulos</h2>
 <details>
   <summary>✅Prinípios de Desenvolvimento de Software Colaborativo (5 atividades)</summary>
  
@@ -87,20 +87,20 @@
  -  [ ] Avaliação do Curso(1hr)
 </details>
 
-## 👨🏾‍🏫<h2 id="mentorias">Mentorias</h2>
+<h2 id="mentorias">👨🏾‍🏫Mentorias</h2>
 
 - ETL Com Python - Como Manipular Grandes Massas de Dados com Python - Live (🎤 Felipe Aquigar)
 - Criando um Dataset do Spotify com IA Generativa - Live (🎤 Felipe Aquigar)
 - Criando Dashboards de Vendas com IA e Excel - Live (🎤 Aline Antunes)
 - Roadmap de Estudos de Python com Dados - Live (🎤 Aline Antunes)
 
-## ⚔🎯<h2 id="projetos">Projetos + Desafios</h2>
+<h2 id="projetos">⚔🎯Projetos + Desafios</h2>
 
-## 🛠<h2 id="tecnologias">Tecnologias Utilizadas</h2>
+<h2 id="tecnologias">🛠Tecnologias Utilizadas</h2>
 1. [Python](https://www.python.org/)
 2. [Creately](https://app.creately.com/)
 3. [Quick Database Diagrams](https://app.quickdatabasediagrams.com/)
 4. [Cloud Clusters](https://clients.cloudclusters.io/)
 
-## 👨🏾‍🎓<h2 id="certificado">Certificado de Conclusão</h2>
+<h2 id="certificado">👨🏾‍🎓Certificado de Conclusão</h2>
 
