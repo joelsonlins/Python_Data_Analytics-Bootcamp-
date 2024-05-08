@@ -98,10 +98,13 @@
 
 <h2 id="tecnologias">🛠 Tecnologias Utilizadas</h2>
 
-1. [Python](https://www.python.org/)
-2. [Creately](https://app.creately.com/)
-3. [Quick Database Diagrams](https://app.quickdatabasediagrams.com/)
-4. [Cloud Clusters](https://clients.cloudclusters.io/)
+1. <a href="https://www.python.org/" target="_blank">Python</a>
+2. <a href="https://app.creately.com/" target="_blank">Creately</a>
+3. <a href="https://app.quickdatabasediagrams.com/" target="_blank">Quick Database Diagrams</a>
+4. <a href="https://clients.cloudclusters.io/" target="_blank">Cloud Clusters</a>
+5. <a href="https://cloud.mongodb.com/" target="_blank">Cloud mongoDB</a>
+6. <a href="https://jsonformatter.curiousconcept.com/" target="_blank">JSON Formatter</a>
+
 
 <h2 id="certificado">👨🏾‍🎓 Certificado de Conclusão</h2>
 
