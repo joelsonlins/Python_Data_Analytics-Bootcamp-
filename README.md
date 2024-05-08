@@ -6,8 +6,6 @@
   </a>
 </p>
 
-# Título <a name="ancora"></a>
-
 ## Índice
 - <a href="#sobre">Sobre</a>
 - <a href="#modulos">Módulos</a>
