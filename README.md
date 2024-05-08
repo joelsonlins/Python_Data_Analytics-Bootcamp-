@@ -1,8 +1,10 @@
 # 👨🏾‍💻Bootcamp Coding The Futyre Squadio - Python Analytics
 
-<div style="text-align:center;">
-<img src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" alt="Python Analytics" width="500"/>
-</di>
+<p align="center">
+  <a href="https://www.dio.me/sign-up?ref=6UU1FQVN1R" target="_blank">
+    <img align="center" src="https://hermes.dio.me/tracks/0136518c-68d6-4198-bdbe-6d982c3a1261.png" alt="banner" width="500"/>
+  </a>
+</p>
 
 ## Índice
 - <a href="">Sobre</a>
