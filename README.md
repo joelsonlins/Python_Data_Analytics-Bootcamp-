@@ -16,7 +16,7 @@
 - <a href="#tecnologias">Tecnologias Utilizadas</a>
 - <a href="#certificado">Certificado de Conclusão</a>
 
-## 📋<h2 id="sobre">Sobre</h2>
+<h2 id="sobre">📋Sobre</h2>
 <div>
  <p>Bootcamp Coding The Future Squadio - Python Data Analytics aprendendo a manipular, gerenciar e apresentar grandes massas de dados através de habilidades práticas para construir dashboards funcionais.</p>
  
@@ -25,7 +25,7 @@
  <p>Nesta trilha, eu desenvolvi habilidades com projetos práticos, desafios de códigos e mentorias com experts da DIO</p>  
 </di>
 
-## 🗃<h2 id="modulos">Módulos</h2>
+<h2 id="modulos">Módulos</h2>
 <details>
   <summary>✅Prinípios de Desenvolvimento de Software Colaborativo (5 atividades)</summary>
  
