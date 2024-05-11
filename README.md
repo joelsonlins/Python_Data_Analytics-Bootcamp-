@@ -50,19 +50,19 @@
   
 </details>
 <details>
- <summary>Primeiros Passos em SQL e NoSQL (2 Atividades)</summary>
+ <summary>✅Primeiros Passos em SQL e NoSQL (2 Atividades)</summary>
 
   -  [x] Introdução a Banco de Dados Relacionais-SQL(3hrs)
-  -  [ ] Introdução a Banco de dados NoSQL(3hrs)
+  -  [x] Introdução a Banco de dados NoSQL(3hrs)
          
 </details>
 <details>
  <summary>Visualização e Análise de Dados com Power BI (12 atividades)</summary>
    
-  -  [ ] Fundamentos Teóricos Sobre ETL(1hr)
-  -  [ ] Primeiros Passos com Power BI(3hrs)
-  -  [ ] Trabalhando com Visuais no Power BI(4hrs)
-  -  [ ] Fundamentos de BI: KPIs e Métricas(1hr)
+  -  [x] Fundamentos Teóricos Sobre ETL(1hr)
+  -  [x] Primeiros Passos com Power BI(3hrs)
+  -  [x] Trabalhando com Visuais no Power BI(4hrs)
+  -  [x] Fundamentos de BI: KPIs e Métricas(1hr)
   -  [ ] Criando Dashboard Interativos com Power BI(2hrs)
   -  [ ] Criando um Relatório de Vendas Elegante com Power BI(1hr)
   -  [ ] Coleta e Extração de Dados com power BI(3hrs)
@@ -102,6 +102,8 @@
 4. <a href="https://clients.cloudclusters.io/" target="_blank">Cloud Clusters</a>
 5. <a href="https://cloud.mongodb.com/" target="_blank">Cloud mongoDB</a>
 6. <a href="https://jsonformatter.curiousconcept.com/" target="_blank">JSON Formatter</a>
+7. <a href="https://try.redis.io//" target="_blank">Redis</a>
+8. <a href="https://powerbi.microsoft.com/pt-br/learning/" target="_blank">Power BI</a>
 
 
 <h2 id="certificado">👨🏾‍🎓 Certificado de Conclusão</h2>
