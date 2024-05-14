@@ -57,18 +57,18 @@
          
 </details>
 <details>
- <summary>Visualização e Análise de Dados com Power BI (12 atividades)</summary>
+ <summary>✅Visualização e Análise de Dados com Power BI (12 atividades)</summary>
    
   -  [x] Fundamentos Teóricos Sobre ETL(1hr)
   -  [x] Primeiros Passos com Power BI(3hrs)
   -  [x] Trabalhando com Visuais no Power BI(4hrs)
   -  [x] Fundamentos de BI: KPIs e Métricas(1hr)
   -  [x] Criando Dashboard Interativos com Power BI(2hrs)
-  -  [ ] Criando um Relatório de Vendas Elegante com Power BI(1hr)
-  -  [ ] Coleta e Extração de Dados com power BI(3hrs)
-  -  [ ] Limpeza e Transformação de Dados com Power BI(2hrs)
-  -  [ ] Processando e Transformando Dados com Power BI(2hrs)
-  -  [ ] Desafios de Código SQUADIO - Intermediário(1hr)
+  -  [x] Criando um Relatório de Vendas Elegante com Power BI(1hr)
+  -  [x] Coleta e Extração de Dados com power BI(3hrs)
+  -  [x] Limpeza e Transformação de Dados com Power BI(2hrs)
+  -  [x] Processando e Transformando Dados com Power BI(2hrs)
+  -  [x] Desafios de Código SQUADIO - Intermediário(1hr)
 </details>
 <details>
  <summary>✅Fundamentos e Técnicas de Machine Learning (10 atividades)</summary>
@@ -106,5 +106,6 @@
 8. <a href="https://powerbi.microsoft.com/pt-br/learning/" target="_blank">Power BI</a>
 
 
-<h2 id="certificado">👨🏾‍🎓 Certificado de Conclusão</h2>
+<h2 id="certificado">👨🏾‍🎓 ✅Certificado de Conclusão</h2>
 
+<a href="https://www.dio.me/certificate/B6PDLBU0/share" target="_blank">	👉 Certificado de conclusão. 👈 </a>
