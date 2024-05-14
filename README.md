@@ -63,7 +63,7 @@
   -  [x] Primeiros Passos com Power BI(3hrs)
   -  [x] Trabalhando com Visuais no Power BI(4hrs)
   -  [x] Fundamentos de BI: KPIs e Métricas(1hr)
-  -  [ ] Criando Dashboard Interativos com Power BI(2hrs)
+  -  [x] Criando Dashboard Interativos com Power BI(2hrs)
   -  [ ] Criando um Relatório de Vendas Elegante com Power BI(1hr)
   -  [ ] Coleta e Extração de Dados com power BI(3hrs)
   -  [ ] Limpeza e Transformação de Dados com Power BI(2hrs)
@@ -71,18 +71,18 @@
   -  [ ] Desafios de Código SQUADIO - Intermediário(1hr)
 </details>
 <details>
- <summary>Fundamentos e Técnicas de Machine Learning (10 atividades)</summary>
+ <summary>✅Fundamentos e Técnicas de Machine Learning (10 atividades)</summary>
  
- -  [ ] Introdução ao Machine Learning(2hrs)
- -  [ ] Métodos de Machine Learning Bioinspirados(1hr)
- -  [ ] Redes Neurais Artificiais(1hr)
- -  [ ] Algoritmos Genéticos(2hrs)
- -  [ ] Algoritmos de SVM - Support Vector Machine(1hr)
- -  [ ] Classificação de Problemas: Explorando Datasets(1hr)
- -  [ ] Linguagens de Programação para Machine Learning(1hr)
- -  [ ] Python para Machine Learning na Prática(2hrs)
- -  [ ] Desafios de Código Squadio - Intermediário || (1hr)
- -  [ ] Avaliação do Curso(1hr)
+ -  [x] Introdução ao Machine Learning(2hrs)
+ -  [x] Métodos de Machine Learning Bioinspirados(1hr)
+ -  [x] Redes Neurais Artificiais(1hr)
+ -  [x] Algoritmos Genéticos(2hrs)
+ -  [x] Algoritmos de SVM - Support Vector Machine(1hr)
+ -  [x] Classificação de Problemas: Explorando Datasets(1hr)
+ -  [x] Linguagens de Programação para Machine Learning(1hr)
+ -  [x] Python para Machine Learning na Prática(2hrs)
+ -  [x] Desafios de Código Squadio - Intermediário || (1hr)
+ -  [x] Avaliação do Curso(1hr)
 </details>
 
 <h2 id="mentorias">👨🏾‍🏫 Mentorias</h2>
@@ -94,7 +94,7 @@
 
 <h2 id="projetos">⚔🎯 Projetos + Desafios</h2>
 
-<h2 id="tecnologias">🛠 Tecnologias Utilizadas</h2>
+<h2 id="tecnologias">🛠 Tecnologias e Ferramentas Utilizadas</h2>
 
 1. <a href="https://www.python.org/" target="_blank">Python</a>
 2. <a href="https://app.creately.com/" target="_blank">Creately</a>
